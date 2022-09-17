@@ -1,8 +1,7 @@
-[Module 12 Report](https://github.com/nataliaburrey/Credit_risk_resempling/blob/main/report-template.md)
-- [Overview of the Analysis](https://github.com/nataliaburrey/Credit_risk_resempling/blob/main/report-template.md#overview-of-the-analysis)
-- [Results](https://github.com/nataliaburrey/Credit_risk_resempling/blob/main/report-template.md#results)
-- [Summary](https://github.com/nataliaburrey/Credit_risk_resempling/blob/main/report-template.md#summary)
-
+[Module 12 Report](https://github.com/ShengGaoSG/Credit_Risk_Resempling/blob/main/report-template.md)
+- [Overview of the Analysis](https://github.com/ShengGaoSG/Credit_Risk_Resempling/blob/main/report-template.md#overview-of-the-analysis)
+- [Results](https://github.com/ShengGaoSG/Credit_Risk_Resempling/blob/main/report-template.md#results)
+- [Summary](https://github.com/ShengGaoSG/Credit_Risk_Resempling/blob/main/report-template.md#summary)
 
 
 # Credit Risk
@@ -14,13 +13,12 @@ Challenge_12
 
 
 ## Table of content
-- [Overview of the project and project goals](https://github.com/nataliaburrey/Credit_risk_resempling/blob/main/README.md#overview-of-the-project-and-project-goals) 
-- [Software version control](https://github.com/nataliaburrey/Credit_risk_resempling/blob/main/README.md#software-version-control)
-    - [Libraries](https://github.com/nataliaburrey/Credit_risk_resempling/blob/main/README.md#libraries)
-    - [Work with GitHub](https://github.com/nataliaburrey/Credit_risk_resempling/blob/main/README.md#work-with-github)
-    - [How to install](https://github.com/nataliaburrey/Credit_risk_resempling/blob/main/README.md#how-to-install)
-- [Helps recruiters](https://github.com/nataliaburrey/Credit_risk_resempling/blob/main/README.md#helps-recruiters)
-- [License](https://github.com/nataliaburrey/Credit_risk_resempling/blob/main/README.md#license)
+- [Overview of the project and project goals](https://github.com/ShengGaoSG/Credit_Risk_Resempling/blob/main/README.md#overview-of-the-project-and-project-goals) 
+- [Software version control](https://github.com/ShengGaoSG/Credit_Risk_Resempling/blob/main/README.md#software-version-control)
+    - [Libraries](https://github.com/ShengGaoSG/Credit_Risk_Resempling/blob/main/README.md#libraries)
+    - [Work with GitHub](https://github.com/ShengGaoSG/Credit_Risk_Resempling/bolb/main/README.md#work-with-github)
+    - [How to install](https://github.com/ShengGaoSG/Credit_Risk_Resempling/blob/main/README.md#how-to-install)
+- [License](https://github.com/ShengGaoSG/Credit_Risk_Resempling/blob/main/README.md#license)
 
 
 
@@ -75,23 +73,14 @@ warnings.filterwarnings('ignore')
 ```
 cd desktop
 
-git clone https://github.com/nataliaburrey/Credit_risk_resempling.git
+git clone https://github.com/ShengGaoSG/Credit_Risk_Resempling.git
 ```
 
 now you can find repo on your desktop
 
 
-* Access the report [report-template.md](https://github.com/nataliaburrey/Credit_risk_resempling/blob/main/report-template.md)
+* Access the report [report-template.md](https://github.com/ShengGaoSG/Credit_Risk_Resempling/blob/main/report-template.md)
 * Choose [ credit_risk_resempling.ipynb ] file to see the Jupyter Notebook with code.
-
-
-## Helps recruiters
-
-The project was created in collaboration with Berkeley Fintech Bootcamp team: Allan Hall, Joel Gonzales.
-
-Tutor Lavina Tang helped me to polish my code and tought me how to run separate parts of code to see if it works every step.
-
-AskBCS Learning Assistant channel was used to troubleshoot some of the accuring problems outside of the classroom
 
 
 
